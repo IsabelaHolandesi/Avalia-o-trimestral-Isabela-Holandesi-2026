@@ -1,0 +1,14 @@
+C:\Projetos-Isabela-2026\Juros Simples\bin\Debug\net10.0\Juros Simples.exe
+C:\Projetos-Isabela-2026\Juros Simples\bin\Debug\net10.0\Juros Simples.deps.json
+C:\Projetos-Isabela-2026\Juros Simples\bin\Debug\net10.0\Juros Simples.runtimeconfig.json
+C:\Projetos-Isabela-2026\Juros Simples\bin\Debug\net10.0\Juros Simples.dll
+C:\Projetos-Isabela-2026\Juros Simples\bin\Debug\net10.0\Juros Simples.pdb
+C:\Projetos-Isabela-2026\Juros Simples\obj\Debug\net10.0\Juros Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos-Isabela-2026\Juros Simples\obj\Debug\net10.0\Juros Simples.AssemblyInfoInputs.cache
+C:\Projetos-Isabela-2026\Juros Simples\obj\Debug\net10.0\Juros Simples.AssemblyInfo.cs
+C:\Projetos-Isabela-2026\Juros Simples\obj\Debug\net10.0\Juros Simples.csproj.CoreCompileInputs.cache
+C:\Projetos-Isabela-2026\Juros Simples\obj\Debug\net10.0\Juros Simples.dll
+C:\Projetos-Isabela-2026\Juros Simples\obj\Debug\net10.0\refint\Juros Simples.dll
+C:\Projetos-Isabela-2026\Juros Simples\obj\Debug\net10.0\Juros Simples.pdb
+C:\Projetos-Isabela-2026\Juros Simples\obj\Debug\net10.0\Juros Simples.genruntimeconfig.cache
+C:\Projetos-Isabela-2026\Juros Simples\obj\Debug\net10.0\ref\Juros Simples.dll

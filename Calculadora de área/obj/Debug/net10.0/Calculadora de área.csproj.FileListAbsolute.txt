@@ -1,0 +1,14 @@
+C:\Projetos-Isabela-2026\Calculadora de área\bin\Debug\net10.0\Calculadora de área.exe
+C:\Projetos-Isabela-2026\Calculadora de área\bin\Debug\net10.0\Calculadora de área.deps.json
+C:\Projetos-Isabela-2026\Calculadora de área\bin\Debug\net10.0\Calculadora de área.runtimeconfig.json
+C:\Projetos-Isabela-2026\Calculadora de área\bin\Debug\net10.0\Calculadora de área.dll
+C:\Projetos-Isabela-2026\Calculadora de área\bin\Debug\net10.0\Calculadora de área.pdb
+C:\Projetos-Isabela-2026\Calculadora de área\obj\Debug\net10.0\Calculadora de área.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos-Isabela-2026\Calculadora de área\obj\Debug\net10.0\Calculadora de área.AssemblyInfoInputs.cache
+C:\Projetos-Isabela-2026\Calculadora de área\obj\Debug\net10.0\Calculadora de área.AssemblyInfo.cs
+C:\Projetos-Isabela-2026\Calculadora de área\obj\Debug\net10.0\Calculadora de área.csproj.CoreCompileInputs.cache
+C:\Projetos-Isabela-2026\Calculadora de área\obj\Debug\net10.0\Calculadora de área.dll
+C:\Projetos-Isabela-2026\Calculadora de área\obj\Debug\net10.0\refint\Calculadora de área.dll
+C:\Projetos-Isabela-2026\Calculadora de área\obj\Debug\net10.0\Calculadora de área.pdb
+C:\Projetos-Isabela-2026\Calculadora de área\obj\Debug\net10.0\Calculadora de área.genruntimeconfig.cache
+C:\Projetos-Isabela-2026\Calculadora de área\obj\Debug\net10.0\ref\Calculadora de área.dll

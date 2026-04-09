@@ -1,0 +1,14 @@
+C:\Projetos-Isabela-2026\Conversor de temperaturas\bin\Debug\net10.0\Conversor de temperaturas.exe
+C:\Projetos-Isabela-2026\Conversor de temperaturas\bin\Debug\net10.0\Conversor de temperaturas.deps.json
+C:\Projetos-Isabela-2026\Conversor de temperaturas\bin\Debug\net10.0\Conversor de temperaturas.runtimeconfig.json
+C:\Projetos-Isabela-2026\Conversor de temperaturas\bin\Debug\net10.0\Conversor de temperaturas.dll
+C:\Projetos-Isabela-2026\Conversor de temperaturas\bin\Debug\net10.0\Conversor de temperaturas.pdb
+C:\Projetos-Isabela-2026\Conversor de temperaturas\obj\Debug\net10.0\Conversor de temperaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos-Isabela-2026\Conversor de temperaturas\obj\Debug\net10.0\Conversor de temperaturas.AssemblyInfoInputs.cache
+C:\Projetos-Isabela-2026\Conversor de temperaturas\obj\Debug\net10.0\Conversor de temperaturas.AssemblyInfo.cs
+C:\Projetos-Isabela-2026\Conversor de temperaturas\obj\Debug\net10.0\Conversor de temperaturas.csproj.CoreCompileInputs.cache
+C:\Projetos-Isabela-2026\Conversor de temperaturas\obj\Debug\net10.0\Conversor de temperaturas.dll
+C:\Projetos-Isabela-2026\Conversor de temperaturas\obj\Debug\net10.0\refint\Conversor de temperaturas.dll
+C:\Projetos-Isabela-2026\Conversor de temperaturas\obj\Debug\net10.0\Conversor de temperaturas.pdb
+C:\Projetos-Isabela-2026\Conversor de temperaturas\obj\Debug\net10.0\Conversor de temperaturas.genruntimeconfig.cache
+C:\Projetos-Isabela-2026\Conversor de temperaturas\obj\Debug\net10.0\ref\Conversor de temperaturas.dll

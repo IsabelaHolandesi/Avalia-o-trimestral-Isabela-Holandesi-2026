@@ -1,0 +1,14 @@
+C:\Projetos-Isabela-2026\Status do heroi\bin\Debug\net10.0\Status do heroi.exe
+C:\Projetos-Isabela-2026\Status do heroi\bin\Debug\net10.0\Status do heroi.deps.json
+C:\Projetos-Isabela-2026\Status do heroi\bin\Debug\net10.0\Status do heroi.runtimeconfig.json
+C:\Projetos-Isabela-2026\Status do heroi\bin\Debug\net10.0\Status do heroi.dll
+C:\Projetos-Isabela-2026\Status do heroi\bin\Debug\net10.0\Status do heroi.pdb
+C:\Projetos-Isabela-2026\Status do heroi\obj\Debug\net10.0\Status do heroi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos-Isabela-2026\Status do heroi\obj\Debug\net10.0\Status do heroi.AssemblyInfoInputs.cache
+C:\Projetos-Isabela-2026\Status do heroi\obj\Debug\net10.0\Status do heroi.AssemblyInfo.cs
+C:\Projetos-Isabela-2026\Status do heroi\obj\Debug\net10.0\Status do heroi.csproj.CoreCompileInputs.cache
+C:\Projetos-Isabela-2026\Status do heroi\obj\Debug\net10.0\Status do heroi.dll
+C:\Projetos-Isabela-2026\Status do heroi\obj\Debug\net10.0\refint\Status do heroi.dll
+C:\Projetos-Isabela-2026\Status do heroi\obj\Debug\net10.0\Status do heroi.pdb
+C:\Projetos-Isabela-2026\Status do heroi\obj\Debug\net10.0\Status do heroi.genruntimeconfig.cache
+C:\Projetos-Isabela-2026\Status do heroi\obj\Debug\net10.0\ref\Status do heroi.dll
